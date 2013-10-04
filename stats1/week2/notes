@@ -1,0 +1,36 @@
+Leccture 3: variables 
+******************************************************************
+Types of Variables in Stats 
+-Nominal 
+-Ordinal 
+-Interval 
+-Ratio 
+
+
+Nominal: 
+-used to assigned individual cases of categories 
+  -example, Coursera students come from different countries: Country of origin is nominal -- Allows you to dist
+
+Ordinal: 
+-used to rank order cases 
+  -for example, counrtires may be ranked according to population 
+  -ranking is an ordinal variable
+
+Interval:
+  -used to rank order cases and the distance or interval between each value is equal 
+  -for example each country has a longitude and latitue
+
+Ratio: 
+-the same as interval variables but they have a true 0 point 
+  -for example population is a ratio variable because it has  a 0 point
+  -examples: age, population, temperature -- all of these have true 0 points
+
+Lecture 3.2: Histograms: 
+*********************************************************************
+Histogram: 
+-helps us overcome our natural tendency to rely on summary information
+
+x axis - whatever variable you are looking at 
+y axis - frequency 
+
+Normal Distribution looks likea  bell curve, symetrical around the mean

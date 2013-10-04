@@ -1,0 +1,12 @@
+Notes: 
+
+-There are a small number of atomic data types 
+-vectors must all be of the same type 
+-lists are like vectors but of mixed type
+
+R objects can have attributes: 
+-names, dimnames 
+-dimentsions(matrices, arrays)
+-class 
+-length
+-other user-defined attributes/metadata 
