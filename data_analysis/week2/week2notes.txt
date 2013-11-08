@@ -1,0 +1,27 @@
+Steps in Data Analysis: 
+  - Define the question 
+  - Define the ideal data set 
+  -Determine what data you can access 
+  -Obtain the data
+
+Define the question: 
+  - example: Can I automatically detect emails that are SPAM and those that are NOT
+  -concretae: Can i use quantitative characteristics to determine spam/ham 
+  
+Define the ideal dataset: 
+  -descriptive - whole population 
+  - Exploratory - random sample 
+  - inferential - the right population 
+  - Predictive - training data and test data 
+  - 
+
+Determine what data you can access 
+  -buy it 
+  -find it 
+  -get it yourself 
+  
+Clean the dataL 
+  -raw data often needs to ne processed 
+  -if it is pre processed make sure you understand how 
+  -understand the source of the data (census, sample, conveniecen sample)
+  -determine if the data is good enough
